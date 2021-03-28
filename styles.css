@@ -1,0 +1,29 @@
+/**Estilos para las frases en About Me**/
+.frases{
+    font-size: larger;
+}
+
+/**Estilos para los titulos de seccion**/
+.section-title{
+    font-size: 2.9rem;
+}
+
+/**Estilos para los divs de Soundcloud**/
+.SoundCloud-div{
+    font-size: 10px;
+    color: #cccccc;
+    line-break: anywhere;
+    word-break: normal;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis; 
+    font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;
+    font-weight: 100;
+}
+
+/**Estilos para los links de soundcloud**/
+
+.SoundCloud-link{
+    color: #cccccc; 
+    text-decoration: none;
+}
